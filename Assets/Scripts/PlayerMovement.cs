@@ -27,18 +27,32 @@ public class PlayerMovement : MonoBehaviour {
 	void Update () {
 		a.SetBool ("Jumping", jumping);
 		a.SetFloat ("Velocity", vel);
+
+		if (Input.GetKeyDown (KeyCode.W)) {
+			jumping = true;
+
+			vertical = 1;
+			r.velocity = new Vector2(r.velocity.x, 0f);
+			r.angularVelocity = 0f;
+		} else {	
+			jumping = false;
+
+			vertical = 0;
+		}
 	}
 
 	void FixedUpdate(){
 		horizontal = Input.GetAxisRaw ("Horizontal");
-		vertical = Input.GetAxisRaw ("Vertical");
+		//vertical = Input.GetAxisRaw ("Vertical");
 
 		vel = r.velocity.x;
-
 		r.AddForce(transform.right * horizontal * speed);
-		if(!jumping){
+
+		if(jumping){
 			r.AddForce(transform.up * vertical * jumpHeight);
 		}
+
+		transform.rotation = Quaternion.Euler (0f, 0f, -r.velocity.x);
 	}
 
 	public void setJumping(bool toSet){
