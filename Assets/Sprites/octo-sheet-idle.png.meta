@@ -1,0 +1,2677 @@
+fileFormatVersion: 2
+guid: 31f51fa1711d4194f82adf6a007fdbca
+timeCreated: 1484039751
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: octo-sheet-idle_0
+    21300002: octo-sheet-idle_1
+    21300004: octo-sheet-idle_2
+    21300006: octo-sheet-idle_3
+    21300008: octo-sheet-idle_4
+    21300010: octo-sheet-idle_5
+    21300012: octo-sheet-idle_6
+    21300014: octo-sheet-idle_7
+    21300016: octo-sheet-idle_8
+    21300018: octo-sheet-idle_9
+    21300020: octo-sheet-idle_10
+    21300022: octo-sheet-idle_11
+    21300024: octo-sheet-idle_12
+    21300026: octo-sheet-idle_13
+    21300028: octo-sheet-idle_14
+    21300030: octo-sheet-idle_15
+    21300032: octo-sheet-idle_16
+    21300034: octo-sheet-idle_17
+    21300036: octo-sheet-idle_18
+    21300038: octo-sheet-idle_19
+    21300040: octo-sheet-idle_20
+    21300042: octo-sheet-idle_21
+    21300044: octo-sheet-idle_22
+    21300046: octo-sheet-idle_23
+    21300048: octo-sheet-idle_24
+    21300050: octo-sheet-idle_25
+    21300052: octo-sheet-idle_26
+    21300054: octo-sheet-idle_27
+    21300056: octo-sheet-idle_28
+    21300058: octo-sheet-idle_29
+    21300060: octo-sheet-idle_30
+    21300062: octo-sheet-idle_31
+    21300064: octo-sheet-idle_32
+    21300066: octo-sheet-idle_33
+    21300068: octo-sheet-idle_34
+    21300070: octo-sheet-idle_35
+    21300072: octo-sheet-idle_36
+    21300074: octo-sheet-idle_37
+    21300076: octo-sheet-idle_38
+    21300078: octo-sheet-idle_39
+    21300080: octo-sheet-idle_40
+    21300082: octo-sheet-idle_41
+    21300084: octo-sheet-idle_42
+    21300086: octo-sheet-idle_43
+    21300088: octo-sheet-idle_44
+    21300090: octo-sheet-idle_45
+    21300092: octo-sheet-idle_46
+    21300094: octo-sheet-idle_47
+    21300096: octo-sheet-idle_48
+    21300098: octo-sheet-idle_49
+    21300100: octo-sheet-idle_50
+    21300102: octo-sheet-idle_51
+    21300104: octo-sheet-idle_52
+    21300106: octo-sheet-idle_53
+    21300108: octo-sheet-idle_54
+    21300110: octo-sheet-idle_55
+    21300112: octo-sheet-idle_56
+    21300114: octo-sheet-idle_57
+    21300116: octo-sheet-idle_58
+    21300118: octo-sheet-idle_59
+    21300120: octo-sheet-idle_60
+    21300122: octo-sheet-idle_61
+    21300124: octo-sheet-idle_62
+    21300126: octo-sheet-idle_63
+    21300128: octo-sheet-idle_64
+    21300130: octo-sheet-idle_65
+    21300132: octo-sheet-idle_66
+    21300134: octo-sheet-idle_67
+    21300136: octo-sheet-idle_68
+    21300138: octo-sheet-idle_69
+    21300140: octo-sheet-idle_70
+    21300142: octo-sheet-idle_71
+    21300144: octo-sheet-idle_72
+    21300146: octo-sheet-idle_73
+    21300148: octo-sheet-idle_74
+    21300150: octo-sheet-idle_75
+    21300152: octo-sheet-idle_76
+    21300154: octo-sheet-idle_77
+    21300156: octo-sheet-idle_78
+    21300158: octo-sheet-idle_79
+    21300160: octo-sheet-idle_80
+    21300162: octo-sheet-idle_81
+    21300164: octo-sheet-idle_82
+    21300166: octo-sheet-idle_83
+    21300168: octo-sheet-idle_84
+    21300170: octo-sheet-idle_85
+    21300172: octo-sheet-idle_86
+    21300174: octo-sheet-idle_87
+    21300176: octo-sheet-idle_88
+    21300178: octo-sheet-idle_89
+    21300180: octo-sheet-idle_90
+    21300182: octo-sheet-idle_91
+    21300184: octo-sheet-idle_92
+    21300186: octo-sheet-idle_93
+    21300188: octo-sheet-idle_94
+    21300190: octo-sheet-idle_95
+    21300192: octo-sheet-idle_96
+    21300194: octo-sheet-idle_97
+    21300196: octo-sheet-idle_98
+    21300198: octo-sheet-idle_99
+    21300200: octo-sheet-idle_100
+    21300202: octo-sheet-idle_101
+    21300204: octo-sheet-idle_102
+    21300206: octo-sheet-idle_103
+    21300208: octo-sheet-idle_104
+    21300210: octo-sheet-idle_105
+    21300212: octo-sheet-idle_106
+    21300214: octo-sheet-idle_107
+    21300216: octo-sheet-idle_108
+    21300218: octo-sheet-idle_109
+    21300220: octo-sheet-idle_110
+    21300222: octo-sheet-idle_111
+    21300224: octo-sheet-idle_112
+    21300226: octo-sheet-idle_113
+    21300228: octo-sheet-idle_114
+    21300230: octo-sheet-idle_115
+    21300232: octo-sheet-idle_116
+    21300234: octo-sheet-idle_117
+    21300236: octo-sheet-idle_118
+    21300238: octo-sheet-idle_119
+    21300240: octo-sheet-idle_120
+    21300242: octo-sheet-idle_121
+    21300244: octo-sheet-idle_122
+    21300246: octo-sheet-idle_123
+    21300248: octo-sheet-idle_124
+    21300250: octo-sheet-idle_125
+    21300252: octo-sheet-idle_126
+    21300254: octo-sheet-idle_127
+    21300256: octo-sheet-idle_128
+    21300258: octo-sheet-idle_129
+    21300260: octo-sheet-idle_130
+    21300262: octo-sheet-idle_131
+    21300264: octo-sheet-idle_132
+    21300266: octo-sheet-idle_133
+    21300268: octo-sheet-idle_134
+    21300270: octo-sheet-idle_135
+    21300272: octo-sheet-idle_136
+    21300274: octo-sheet-idle_137
+    21300276: octo-sheet-idle_138
+    21300278: octo-sheet-idle_139
+    21300280: octo-sheet-idle_140
+    21300282: octo-sheet-idle_141
+    21300284: octo-sheet-idle_142
+    21300286: octo-sheet-idle_143
+    21300288: octo-sheet-idle_144
+    21300290: octo-sheet-idle_145
+    21300292: octo-sheet-idle_146
+    21300294: octo-sheet-idle_147
+    21300296: octo-sheet-idle_148
+    21300298: octo-sheet-idle_149
+    21300300: octo-sheet-idle_150
+    21300302: octo-sheet-idle_151
+    21300304: octo-sheet-idle_152
+    21300306: octo-sheet-idle_153
+    21300308: octo-sheet-idle_154
+    21300310: octo-sheet-idle_155
+    21300312: octo-sheet-idle_156
+    21300314: octo-sheet-idle_157
+    21300316: octo-sheet-idle_158
+    21300318: octo-sheet-idle_159
+    21300320: octo-sheet-idle_160
+    21300322: octo-sheet-idle_161
+    21300324: octo-sheet-idle_162
+    21300326: octo-sheet-idle_163
+    21300328: octo-sheet-idle_164
+    21300330: octo-sheet-idle_165
+    21300332: octo-sheet-idle_166
+    21300334: octo-sheet-idle_167
+    21300336: octo-sheet-idle_168
+    21300338: octo-sheet-idle_169
+    21300340: octo-sheet-idle_170
+    21300342: octo-sheet-idle_171
+    21300344: octo-sheet-idle_172
+    21300346: octo-sheet-idle_173
+    21300348: octo-sheet-idle_174
+    21300350: octo-sheet-idle_175
+    21300352: octo-sheet-idle_176
+    21300354: octo-sheet-idle_177
+    21300356: octo-sheet-idle_178
+    21300358: octo-sheet-idle_179
+    21300360: octo-sheet-idle_180
+    21300362: octo-sheet-idle_181
+    21300364: octo-sheet-idle_182
+    21300366: octo-sheet-idle_183
+    21300368: octo-sheet-idle_184
+    21300370: octo-sheet-idle_185
+    21300372: octo-sheet-idle_186
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: octo-sheet-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14785
+        width: 938
+        height: 755
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_1
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 14785
+        width: 938
+        height: 755
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_2
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 14785
+        width: 938
+        height: 755
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_3
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 14788
+        width: 938
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_4
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 14788
+        width: 938
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_5
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 14788
+        width: 938
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_6
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 14791
+        width: 938
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_7
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 14795
+        width: 938
+        height: 745
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_8
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 14798
+        width: 938
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14060
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_10
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 14060
+        width: 938
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_11
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 14060
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_12
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 14062
+        width: 938
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_13
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 14060
+        width: 938
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_14
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 14060
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_15
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 14060
+        width: 938
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_16
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 14060
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_17
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 14060
+        width: 938
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13320
+        width: 938
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_19
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 13320
+        width: 938
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_20
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 13320
+        width: 938
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_21
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 13320
+        width: 938
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_22
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 13320
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_23
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 13320
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_24
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 13320
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_25
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 13320
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_26
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 13320
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_28
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_29
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_30
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_31
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_32
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_33
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_34
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_35
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 12580
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_37
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_38
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_39
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_40
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_41
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_42
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_43
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_44
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 11840
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_46
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_47
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_48
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_49
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_50
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_51
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_52
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_53
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 11100
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_55
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_56
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_57
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_58
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_59
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_60
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_61
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_62
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 10360
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_64
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_65
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_66
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_67
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_68
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_69
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_70
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_71
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 9620
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8894
+        width: 938
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_73
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 8894
+        width: 938
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_74
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 8898
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_75
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 8898
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_76
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 8898
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_77
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 8898
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_78
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 8898
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_79
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 8898
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_80
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 8905
+        width: 938
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8158
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_82
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 8158
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_83
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 8151
+        width: 938
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_84
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 8158
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_85
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 8162
+        width: 938
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_86
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 8162
+        width: 938
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_87
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 8151
+        width: 938
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_88
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 8155
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_89
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 8151
+        width: 938
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7412
+        width: 938
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_91
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 7405
+        width: 938
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_92
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 7412
+        width: 938
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_93
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 7412
+        width: 938
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_94
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 7408
+        width: 938
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_95
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 7408
+        width: 938
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_96
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 7405
+        width: 938
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_97
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 7405
+        width: 938
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_98
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 7412
+        width: 938
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_100
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_101
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_102
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_103
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_104
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_105
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_106
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_107
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 6660
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_109
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_110
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_111
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_112
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_113
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_114
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_115
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_116
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 5920
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_118
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_119
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_120
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_121
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_122
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_123
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_124
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_125
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 5180
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_127
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_128
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_129
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_130
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_131
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_132
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_133
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_134
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 4440
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_136
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_137
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_138
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_139
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_140
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_141
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_142
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_143
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 3700
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_145
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_146
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_147
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_148
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_149
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_150
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_151
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_152
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 2960
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_154
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_155
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_156
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_157
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_158
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_159
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_160
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_161
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 2220
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 938
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_163
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1480
+        width: 938
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_164
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1480
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 17}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_165
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1480
+        width: 938
+        height: 733
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_166
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1480
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_167
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 1480
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 21}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_168
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 1480
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_169
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 1480
+        width: 938
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_170
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 1480
+        width: 938
+        height: 733
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 938
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_172
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 740
+        width: 938
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_173
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 740
+        width: 938
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_174
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 740
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 5}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_175
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 740
+        width: 938
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_176
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 740
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 8}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_177
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 733
+        width: 938
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_178
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 740
+        width: 938
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_179
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 740
+        width: 938
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 5}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 938
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_181
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_182
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 0
+        width: 938
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_183
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 0
+        width: 938
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_184
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 0
+        width: 938
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_185
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 0
+        width: 938
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-idle_186
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 0
+        width: 938
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

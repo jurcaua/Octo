@@ -1,0 +1,1585 @@
+fileFormatVersion: 2
+guid: 2739ddc1a1d4e924499deea93b63302e
+timeCreated: 1484040335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: octo-sheet-moveright_0
+    21300002: octo-sheet-moveright_1
+    21300004: octo-sheet-moveright_2
+    21300006: octo-sheet-moveright_3
+    21300008: octo-sheet-moveright_4
+    21300010: octo-sheet-moveright_5
+    21300012: octo-sheet-moveright_6
+    21300014: octo-sheet-moveright_7
+    21300016: octo-sheet-moveright_8
+    21300018: octo-sheet-moveright_9
+    21300020: octo-sheet-moveright_10
+    21300022: octo-sheet-moveright_11
+    21300024: octo-sheet-moveright_12
+    21300026: octo-sheet-moveright_13
+    21300028: octo-sheet-moveright_14
+    21300030: octo-sheet-moveright_15
+    21300032: octo-sheet-moveright_16
+    21300034: octo-sheet-moveright_17
+    21300036: octo-sheet-moveright_18
+    21300038: octo-sheet-moveright_19
+    21300040: octo-sheet-moveright_20
+    21300042: octo-sheet-moveright_21
+    21300044: octo-sheet-moveright_22
+    21300046: octo-sheet-moveright_23
+    21300048: octo-sheet-moveright_24
+    21300050: octo-sheet-moveright_25
+    21300052: octo-sheet-moveright_26
+    21300054: octo-sheet-moveright_27
+    21300056: octo-sheet-moveright_28
+    21300058: octo-sheet-moveright_29
+    21300060: octo-sheet-moveright_30
+    21300062: octo-sheet-moveright_31
+    21300064: octo-sheet-moveright_32
+    21300066: octo-sheet-moveright_33
+    21300068: octo-sheet-moveright_34
+    21300070: octo-sheet-moveright_35
+    21300072: octo-sheet-moveright_36
+    21300074: octo-sheet-moveright_37
+    21300076: octo-sheet-moveright_38
+    21300078: octo-sheet-moveright_39
+    21300080: octo-sheet-moveright_40
+    21300082: octo-sheet-moveright_41
+    21300084: octo-sheet-moveright_42
+    21300086: octo-sheet-moveright_43
+    21300088: octo-sheet-moveright_44
+    21300090: octo-sheet-moveright_45
+    21300092: octo-sheet-moveright_46
+    21300094: octo-sheet-moveright_47
+    21300096: octo-sheet-moveright_48
+    21300098: octo-sheet-moveright_49
+    21300100: octo-sheet-moveright_50
+    21300102: octo-sheet-moveright_51
+    21300104: octo-sheet-moveright_52
+    21300106: octo-sheet-moveright_53
+    21300108: octo-sheet-moveright_54
+    21300110: octo-sheet-moveright_55
+    21300112: octo-sheet-moveright_56
+    21300114: octo-sheet-moveright_57
+    21300116: octo-sheet-moveright_58
+    21300118: octo-sheet-moveright_59
+    21300120: octo-sheet-moveright_60
+    21300122: octo-sheet-moveright_61
+    21300124: octo-sheet-moveright_62
+    21300126: octo-sheet-moveright_63
+    21300128: octo-sheet-moveright_64
+    21300130: octo-sheet-moveright_65
+    21300132: octo-sheet-moveright_66
+    21300134: octo-sheet-moveright_67
+    21300136: octo-sheet-moveright_68
+    21300138: octo-sheet-moveright_69
+    21300140: octo-sheet-moveright_70
+    21300142: octo-sheet-moveright_71
+    21300144: octo-sheet-moveright_72
+    21300146: octo-sheet-moveright_73
+    21300148: octo-sheet-moveright_74
+    21300150: octo-sheet-moveright_75
+    21300152: octo-sheet-moveright_76
+    21300154: octo-sheet-moveright_77
+    21300156: octo-sheet-moveright_78
+    21300158: octo-sheet-moveright_79
+    21300160: octo-sheet-moveright_80
+    21300162: octo-sheet-moveright_81
+    21300164: octo-sheet-moveright_82
+    21300166: octo-sheet-moveright_83
+    21300168: octo-sheet-moveright_84
+    21300170: octo-sheet-moveright_85
+    21300172: octo-sheet-moveright_86
+    21300174: octo-sheet-moveright_87
+    21300176: octo-sheet-moveright_88
+    21300178: octo-sheet-moveright_89
+    21300180: octo-sheet-moveright_90
+    21300182: octo-sheet-moveright_91
+    21300184: octo-sheet-moveright_92
+    21300186: octo-sheet-moveright_93
+    21300188: octo-sheet-moveright_94
+    21300190: octo-sheet-moveright_95
+    21300192: octo-sheet-moveright_96
+    21300194: octo-sheet-moveright_97
+    21300196: octo-sheet-moveright_98
+    21300198: octo-sheet-moveright_99
+    21300200: octo-sheet-moveright_100
+    21300202: octo-sheet-moveright_101
+    21300204: octo-sheet-moveright_102
+    21300206: octo-sheet-moveright_103
+    21300208: octo-sheet-moveright_104
+    21300210: octo-sheet-moveright_105
+    21300212: octo-sheet-moveright_106
+    21300214: octo-sheet-moveright_107
+    21300216: octo-sheet-moveright_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: octo-sheet-moveright_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 7736
+        width: 1018
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_1
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 7736
+        width: 1018
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_2
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 7736
+        width: 1017
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_3
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 7741
+        width: 1019
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_4
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 7741
+        width: 1018
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_5
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 7741
+        width: 1018
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_6
+      rect:
+        serializedVersion: 2
+        x: 6506
+        y: 7746
+        width: 1018
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_7
+      rect:
+        serializedVersion: 2
+        x: 7577
+        y: 7746
+        width: 1018
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_8
+      rect:
+        serializedVersion: 2
+        x: 8653
+        y: 7746
+        width: 1018
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_9
+      rect:
+        serializedVersion: 2
+        x: 9724
+        y: 7748
+        width: 1018
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6985
+        width: 1017
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_11
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 6985
+        width: 1018
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_12
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 6986
+        width: 1015
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_13
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 6990
+        width: 1018
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_14
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 6990
+        width: 1013
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_15
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 6990
+        width: 1018
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_16
+      rect:
+        serializedVersion: 2
+        x: 6490
+        y: 6995
+        width: 1013
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_17
+      rect:
+        serializedVersion: 2
+        x: 7562
+        y: 6995
+        width: 1017
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_18
+      rect:
+        serializedVersion: 2
+        x: 8637
+        y: 6996
+        width: 1013
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_19
+      rect:
+        serializedVersion: 2
+        x: 9708
+        y: 7001
+        width: 1018
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6234
+        width: 1013
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_21
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 6234
+        width: 1018
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_22
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 6239
+        width: 1013
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_23
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 6239
+        width: 1018
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_24
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 6240
+        width: 1013
+        height: 571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_25
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 6240
+        width: 1018
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_26
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 6245
+        width: 1013
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_27
+      rect:
+        serializedVersion: 2
+        x: 7546
+        y: 6245
+        width: 1017
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_28
+      rect:
+        serializedVersion: 2
+        x: 8622
+        y: 6245
+        width: 1013
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_29
+      rect:
+        serializedVersion: 2
+        x: 9693
+        y: 6250
+        width: 1017
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5484
+        width: 1013
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_31
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 5484
+        width: 1015
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_32
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 5489
+        width: 1013
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_33
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 5489
+        width: 1010
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_34
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 5489
+        width: 1013
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_35
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 5494
+        width: 1008
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_36
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 5494
+        width: 1013
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_37
+      rect:
+        serializedVersion: 2
+        x: 7535
+        y: 5494
+        width: 1008
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_38
+      rect:
+        serializedVersion: 2
+        x: 8606
+        y: 5499
+        width: 1013
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_39
+      rect:
+        serializedVersion: 2
+        x: 9682
+        y: 5499
+        width: 1008
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4733
+        width: 1013
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_41
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 4738
+        width: 1007
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_42
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4738
+        width: 1012
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_43
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 4738
+        width: 1007
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_44
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 4743
+        width: 1012
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_45
+      rect:
+        serializedVersion: 2
+        x: 5372
+        y: 4743
+        width: 1008
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_46
+      rect:
+        serializedVersion: 2
+        x: 6445
+        y: 4743
+        width: 1011
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_47
+      rect:
+        serializedVersion: 2
+        x: 7519
+        y: 4748
+        width: 1008
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_48
+      rect:
+        serializedVersion: 2
+        x: 8595
+        y: 4746
+        width: 1008
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_49
+      rect:
+        serializedVersion: 2
+        x: 9671
+        y: 4743
+        width: 1008
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3977
+        width: 1005
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_51
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 3977
+        width: 1008
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_52
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 3977
+        width: 1007
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_53
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 3972
+        width: 1007
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_54
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 3972
+        width: 1007
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_55
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 3972
+        width: 1007
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_56
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 3972
+        width: 1007
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_57
+      rect:
+        serializedVersion: 2
+        x: 7530
+        y: 3967
+        width: 1008
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_58
+      rect:
+        serializedVersion: 2
+        x: 8606
+        y: 3966
+        width: 1008
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_59
+      rect:
+        serializedVersion: 2
+        x: 9682
+        y: 3966
+        width: 1010
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3200
+        width: 1012
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_61
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3200
+        width: 1013
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_62
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3195
+        width: 1013
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_63
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 3195
+        width: 1013
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_64
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 3195
+        width: 1013
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_65
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 3195
+        width: 1013
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_66
+      rect:
+        serializedVersion: 2
+        x: 6464
+        y: 3189
+        width: 1013
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_67
+      rect:
+        serializedVersion: 2
+        x: 7540
+        y: 3189
+        width: 1013
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_68
+      rect:
+        serializedVersion: 2
+        x: 8616
+        y: 3189
+        width: 1013
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_69
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 3189
+        width: 1013
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2418
+        width: 1013
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_71
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2418
+        width: 1013
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_72
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 2418
+        width: 1013
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_73
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 2418
+        width: 1013
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_74
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 2418
+        width: 1013
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_75
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 2412
+        width: 1013
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_76
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 2412
+        width: 1013
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_77
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 2412
+        width: 1013
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_78
+      rect:
+        serializedVersion: 2
+        x: 8627
+        y: 2412
+        width: 1013
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_79
+      rect:
+        serializedVersion: 2
+        x: 9703
+        y: 2407
+        width: 1013
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_80
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1641
+        width: 1016
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_81
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1641
+        width: 1017
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_82
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1641
+        width: 1018
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_83
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 1641
+        width: 1018
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_84
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 1636
+        width: 1018
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_85
+      rect:
+        serializedVersion: 2
+        x: 5409
+        y: 1635
+        width: 1018
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_86
+      rect:
+        serializedVersion: 2
+        x: 6485
+        y: 1635
+        width: 1018
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_87
+      rect:
+        serializedVersion: 2
+        x: 7561
+        y: 1635
+        width: 1018
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_88
+      rect:
+        serializedVersion: 2
+        x: 8637
+        y: 1630
+        width: 1019
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_89
+      rect:
+        serializedVersion: 2
+        x: 9714
+        y: 1630
+        width: 1018
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_90
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 864
+        width: 1018
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_91
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 864
+        width: 1018
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_92
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 864
+        width: 1018
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_93
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 859
+        width: 1018
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_94
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 858
+        width: 1018
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_95
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 858
+        width: 1018
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_96
+      rect:
+        serializedVersion: 2
+        x: 6497
+        y: 858
+        width: 1017
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_97
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 854
+        width: 1016
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_98
+      rect:
+        serializedVersion: 2
+        x: 8653
+        y: 853
+        width: 1013
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_99
+      rect:
+        serializedVersion: 2
+        x: 9729
+        y: 853
+        width: 1013
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 87
+        width: 1013
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_101
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 87
+        width: 1018
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_102
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 82
+        width: 1017
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_103
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 81
+        width: 1018
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_104
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 81
+        width: 1018
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_105
+      rect:
+        serializedVersion: 2
+        x: 5435
+        y: 81
+        width: 1018
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_106
+      rect:
+        serializedVersion: 2
+        x: 6511
+        y: 81
+        width: 1019
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_107
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 76
+        width: 1017
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveright_108
+      rect:
+        serializedVersion: 2
+        x: 8664
+        y: 76
+        width: 1018
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

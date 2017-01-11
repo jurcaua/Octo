@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 0413928f0c0a3e24499a4ed4ef0ed7ea
+timeCreated: 1484032541
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: octo-sheet-jump_0
+    21300002: octo-sheet-jump_1
+    21300004: octo-sheet-jump_2
+    21300006: octo-sheet-jump_3
+    21300008: octo-sheet-jump_4
+    21300010: octo-sheet-jump_5
+    21300012: octo-sheet-jump_6
+    21300014: octo-sheet-jump_7
+    21300016: octo-sheet-jump_8
+    21300018: octo-sheet-jump_9
+    21300020: octo-sheet-jump_10
+    21300022: octo-sheet-jump_11
+    21300024: octo-sheet-jump_12
+    21300026: octo-sheet-jump_13
+    21300028: octo-sheet-jump_14
+    21300030: octo-sheet-jump_15
+    21300032: octo-sheet-jump_16
+    21300034: octo-sheet-jump_17
+    21300036: octo-sheet-jump_18
+    21300038: octo-sheet-jump_19
+    21300040: octo-sheet-jump_20
+    21300042: octo-sheet-jump_21
+    21300044: octo-sheet-jump_22
+    21300046: octo-sheet-jump_23
+    21300048: octo-sheet-jump_24
+    21300050: octo-sheet-jump_25
+    21300052: octo-sheet-jump_26
+    21300054: octo-sheet-jump_27
+    21300056: octo-sheet-jump_28
+    21300058: octo-sheet-jump_29
+    21300060: octo-sheet-jump_30
+    21300062: octo-sheet-jump_31
+    21300064: octo-sheet-jump_32
+    21300066: octo-sheet-jump_33
+    21300068: octo-sheet-jump_34
+    21300070: octo-sheet-jump_35
+    21300072: octo-sheet-jump_36
+    21300074: octo-sheet-jump_37
+    21300076: octo-sheet-jump_38
+    21300078: octo-sheet-jump_39
+    21300080: octo-sheet-jump_40
+    21300082: octo-sheet-jump_41
+    21300084: octo-sheet-jump_42
+    21300086: octo-sheet-jump_43
+    21300088: octo-sheet-jump_44
+    21300090: octo-sheet-jump_45
+    21300092: octo-sheet-jump_46
+    21300094: octo-sheet-jump_47
+    21300096: octo-sheet-jump_48
+    21300098: octo-sheet-jump_49
+    21300100: octo-sheet-jump_50
+    21300102: octo-sheet-jump_51
+    21300104: octo-sheet-jump_52
+    21300106: octo-sheet-jump_53
+    21300108: octo-sheet-jump_54
+    21300110: octo-sheet-jump_55
+    21300112: octo-sheet-jump_56
+    21300114: octo-sheet-jump_57
+    21300116: octo-sheet-jump_58
+    21300118: octo-sheet-jump_59
+    21300120: octo-sheet-jump_60
+    21300122: octo-sheet-jump_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: octo-sheet-jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5415
+        width: 941
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_1
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 5408
+        width: 927
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_2
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 5402
+        width: 917
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_3
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 5396
+        width: 910
+        height: 733
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_4
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 5391
+        width: 898
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_5
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 5387
+        width: 891
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_6
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 5383
+        width: 878
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_7
+      rect:
+        serializedVersion: 2
+        x: 7537
+        y: 5379
+        width: 870
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4493
+        width: 862
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_9
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 4488
+        width: 849
+        height: 767
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_10
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 4484
+        width: 837
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_11
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 4480
+        width: 832
+        height: 779
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_12
+      rect:
+        serializedVersion: 2
+        x: 3811
+        y: 4476
+        width: 820
+        height: 783
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_13
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 4472
+        width: 812
+        height: 791
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_14
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 4467
+        width: 799
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_15
+      rect:
+        serializedVersion: 2
+        x: 6639
+        y: 4463
+        width: 791
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_16
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 4459
+        width: 783
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3573
+        width: 770
+        height: 815
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3569
+        width: 759
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_19
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 3565
+        width: 751
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_20
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3560
+        width: 742
+        height: 831
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_21
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 3556
+        width: 734
+        height: 837
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_22
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3552
+        width: 721
+        height: 841
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_23
+      rect:
+        serializedVersion: 2
+        x: 5744
+        y: 3546
+        width: 709
+        height: 847
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_24
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 3540
+        width: 705
+        height: 857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_25
+      rect:
+        serializedVersion: 2
+        x: 7628
+        y: 3536
+        width: 692
+        height: 861
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2653
+        width: 680
+        height: 866
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_27
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2649
+        width: 672
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_28
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 2645
+        width: 663
+        height: 878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_29
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2638
+        width: 655
+        height: 885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_30
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 2635
+        width: 643
+        height: 888
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_31
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 2637
+        width: 647
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_32
+      rect:
+        serializedVersion: 2
+        x: 5773
+        y: 2641
+        width: 651
+        height: 882
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_33
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 2645
+        width: 663
+        height: 878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_34
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 2649
+        width: 676
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1775
+        width: 684
+        height: 865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_36
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1779
+        width: 693
+        height: 858
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_37
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1783
+        width: 705
+        height: 854
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_38
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 1787
+        width: 713
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_39
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 1792
+        width: 726
+        height: 841
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_40
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 1796
+        width: 736
+        height: 837
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_41
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 1800
+        width: 742
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_42
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 1804
+        width: 755
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_43
+      rect:
+        serializedVersion: 2
+        x: 7591
+        y: 1809
+        width: 766
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 934
+        width: 774
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_45
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 938
+        width: 783
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_46
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 943
+        width: 795
+        height: 801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_47
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 948
+        width: 804
+        height: 794
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_48
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 955
+        width: 812
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_49
+      rect:
+        serializedVersion: 2
+        x: 4747
+        y: 959
+        width: 824
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_50
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 963
+        width: 833
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_51
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 967
+        width: 845
+        height: 771
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_52
+      rect:
+        serializedVersion: 2
+        x: 7546
+        y: 971
+        width: 853
+        height: 766
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 97
+        width: 862
+        height: 758
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_54
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 101
+        width: 874
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_55
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 105
+        width: 885
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_56
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 109
+        width: 893
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_57
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 113
+        width: 902
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_58
+      rect:
+        serializedVersion: 2
+        x: 4701
+        y: 118
+        width: 915
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_59
+      rect:
+        serializedVersion: 2
+        x: 5637
+        y: 122
+        width: 923
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_60
+      rect:
+        serializedVersion: 2
+        x: 6569
+        y: 126
+        width: 935
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-jump_61
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 5410
+        width: 936
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

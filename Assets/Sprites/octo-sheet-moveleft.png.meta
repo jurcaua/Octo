@@ -1,0 +1,1585 @@
+fileFormatVersion: 2
+guid: 5af65a38307eb2a49a692f5dd2eeb511
+timeCreated: 1484040047
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: octo-sheet-moveleft_0
+    21300002: octo-sheet-moveleft_1
+    21300004: octo-sheet-moveleft_2
+    21300006: octo-sheet-moveleft_3
+    21300008: octo-sheet-moveleft_4
+    21300010: octo-sheet-moveleft_5
+    21300012: octo-sheet-moveleft_6
+    21300014: octo-sheet-moveleft_7
+    21300016: octo-sheet-moveleft_8
+    21300018: octo-sheet-moveleft_9
+    21300020: octo-sheet-moveleft_10
+    21300022: octo-sheet-moveleft_11
+    21300024: octo-sheet-moveleft_12
+    21300026: octo-sheet-moveleft_13
+    21300028: octo-sheet-moveleft_14
+    21300030: octo-sheet-moveleft_15
+    21300032: octo-sheet-moveleft_16
+    21300034: octo-sheet-moveleft_17
+    21300036: octo-sheet-moveleft_18
+    21300038: octo-sheet-moveleft_19
+    21300040: octo-sheet-moveleft_20
+    21300042: octo-sheet-moveleft_21
+    21300044: octo-sheet-moveleft_22
+    21300046: octo-sheet-moveleft_23
+    21300048: octo-sheet-moveleft_24
+    21300050: octo-sheet-moveleft_25
+    21300052: octo-sheet-moveleft_26
+    21300054: octo-sheet-moveleft_27
+    21300056: octo-sheet-moveleft_28
+    21300058: octo-sheet-moveleft_29
+    21300060: octo-sheet-moveleft_30
+    21300062: octo-sheet-moveleft_31
+    21300064: octo-sheet-moveleft_32
+    21300066: octo-sheet-moveleft_33
+    21300068: octo-sheet-moveleft_34
+    21300070: octo-sheet-moveleft_35
+    21300072: octo-sheet-moveleft_36
+    21300074: octo-sheet-moveleft_37
+    21300076: octo-sheet-moveleft_38
+    21300078: octo-sheet-moveleft_39
+    21300080: octo-sheet-moveleft_40
+    21300082: octo-sheet-moveleft_41
+    21300084: octo-sheet-moveleft_42
+    21300086: octo-sheet-moveleft_43
+    21300088: octo-sheet-moveleft_44
+    21300090: octo-sheet-moveleft_45
+    21300092: octo-sheet-moveleft_46
+    21300094: octo-sheet-moveleft_47
+    21300096: octo-sheet-moveleft_48
+    21300098: octo-sheet-moveleft_49
+    21300100: octo-sheet-moveleft_50
+    21300102: octo-sheet-moveleft_51
+    21300104: octo-sheet-moveleft_52
+    21300106: octo-sheet-moveleft_53
+    21300108: octo-sheet-moveleft_54
+    21300110: octo-sheet-moveleft_55
+    21300112: octo-sheet-moveleft_56
+    21300114: octo-sheet-moveleft_57
+    21300116: octo-sheet-moveleft_58
+    21300118: octo-sheet-moveleft_59
+    21300120: octo-sheet-moveleft_60
+    21300122: octo-sheet-moveleft_61
+    21300124: octo-sheet-moveleft_62
+    21300126: octo-sheet-moveleft_63
+    21300128: octo-sheet-moveleft_64
+    21300130: octo-sheet-moveleft_65
+    21300132: octo-sheet-moveleft_66
+    21300134: octo-sheet-moveleft_67
+    21300136: octo-sheet-moveleft_68
+    21300138: octo-sheet-moveleft_69
+    21300140: octo-sheet-moveleft_70
+    21300142: octo-sheet-moveleft_71
+    21300144: octo-sheet-moveleft_72
+    21300146: octo-sheet-moveleft_73
+    21300148: octo-sheet-moveleft_74
+    21300150: octo-sheet-moveleft_75
+    21300152: octo-sheet-moveleft_76
+    21300154: octo-sheet-moveleft_77
+    21300156: octo-sheet-moveleft_78
+    21300158: octo-sheet-moveleft_79
+    21300160: octo-sheet-moveleft_80
+    21300162: octo-sheet-moveleft_81
+    21300164: octo-sheet-moveleft_82
+    21300166: octo-sheet-moveleft_83
+    21300168: octo-sheet-moveleft_84
+    21300170: octo-sheet-moveleft_85
+    21300172: octo-sheet-moveleft_86
+    21300174: octo-sheet-moveleft_87
+    21300176: octo-sheet-moveleft_88
+    21300178: octo-sheet-moveleft_89
+    21300180: octo-sheet-moveleft_90
+    21300182: octo-sheet-moveleft_91
+    21300184: octo-sheet-moveleft_92
+    21300186: octo-sheet-moveleft_93
+    21300188: octo-sheet-moveleft_94
+    21300190: octo-sheet-moveleft_95
+    21300192: octo-sheet-moveleft_96
+    21300194: octo-sheet-moveleft_97
+    21300196: octo-sheet-moveleft_98
+    21300198: octo-sheet-moveleft_99
+    21300200: octo-sheet-moveleft_100
+    21300202: octo-sheet-moveleft_101
+    21300204: octo-sheet-moveleft_102
+    21300206: octo-sheet-moveleft_103
+    21300208: octo-sheet-moveleft_104
+    21300210: octo-sheet-moveleft_105
+    21300212: octo-sheet-moveleft_106
+    21300214: octo-sheet-moveleft_107
+    21300216: octo-sheet-moveleft_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7495
+        width: 1027
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_1
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 7498
+        width: 1035
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_2
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 7498
+        width: 1035
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_3
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 7503
+        width: 1036
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_4
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 7503
+        width: 1035
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_5
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 7508
+        width: 1039
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_6
+      rect:
+        serializedVersion: 2
+        x: 6557
+        y: 7509
+        width: 1040
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_7
+      rect:
+        serializedVersion: 2
+        x: 7651
+        y: 7514
+        width: 1040
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_8
+      rect:
+        serializedVersion: 2
+        x: 8745
+        y: 7514
+        width: 1040
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_9
+      rect:
+        serializedVersion: 2
+        x: 9839
+        y: 7519
+        width: 1040
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6777
+        width: 1040
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_11
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 6782
+        width: 1040
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_12
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 6782
+        width: 1039
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_13
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 6783
+        width: 1042
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_14
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 6788
+        width: 1044
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_15
+      rect:
+        serializedVersion: 2
+        x: 5474
+        y: 6788
+        width: 1045
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_16
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 6793
+        width: 1045
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_17
+      rect:
+        serializedVersion: 2
+        x: 7666
+        y: 6793
+        width: 1041
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_18
+      rect:
+        serializedVersion: 2
+        x: 8761
+        y: 6798
+        width: 1040
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_19
+      rect:
+        serializedVersion: 2
+        x: 9855
+        y: 6799
+        width: 1040
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6062
+        width: 1040
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_21
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 6062
+        width: 1040
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_22
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 6067
+        width: 1040
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_23
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 6067
+        width: 1045
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_24
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 6072
+        width: 1046
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_25
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 6072
+        width: 1046
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_26
+      rect:
+        serializedVersion: 2
+        x: 6583
+        y: 6075
+        width: 1046
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_27
+      rect:
+        serializedVersion: 2
+        x: 7677
+        y: 6078
+        width: 1046
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_28
+      rect:
+        serializedVersion: 2
+        x: 8771
+        y: 6080
+        width: 1046
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_29
+      rect:
+        serializedVersion: 2
+        x: 9865
+        y: 6083
+        width: 1046
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5341
+        width: 1046
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_31
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 5346
+        width: 1046
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_32
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 5346
+        width: 1045
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_33
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 5352
+        width: 1046
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_34
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 5352
+        width: 1046
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_35
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5357
+        width: 1048
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_36
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 5357
+        width: 1050
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_37
+      rect:
+        serializedVersion: 2
+        x: 7688
+        y: 5362
+        width: 1051
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_38
+      rect:
+        serializedVersion: 2
+        x: 8782
+        y: 5363
+        width: 1051
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_39
+      rect:
+        serializedVersion: 2
+        x: 9876
+        y: 5368
+        width: 1051
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4626
+        width: 1051
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_41
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 4631
+        width: 1051
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_42
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 4631
+        width: 1051
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_43
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 4636
+        width: 1052
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_44
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 4636
+        width: 1052
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_45
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 4642
+        width: 1052
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_46
+      rect:
+        serializedVersion: 2
+        x: 6605
+        y: 4642
+        width: 1051
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_47
+      rect:
+        serializedVersion: 2
+        x: 7699
+        y: 4647
+        width: 1051
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_48
+      rect:
+        serializedVersion: 2
+        x: 8793
+        y: 4642
+        width: 1051
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_49
+      rect:
+        serializedVersion: 2
+        x: 9882
+        y: 4642
+        width: 1048
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3895
+        width: 1052
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_51
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 3894
+        width: 1051
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_52
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 3894
+        width: 1052
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_53
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3889
+        width: 1051
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_54
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 3889
+        width: 1046
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_55
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 3884
+        width: 1051
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_56
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 3884
+        width: 1051
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_57
+      rect:
+        serializedVersion: 2
+        x: 7693
+        y: 3884
+        width: 1046
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_58
+      rect:
+        serializedVersion: 2
+        x: 8782
+        y: 3878
+        width: 1051
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_59
+      rect:
+        serializedVersion: 2
+        x: 9876
+        y: 3878
+        width: 1048
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3131
+        width: 1051
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_61
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 3131
+        width: 1051
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_62
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 3131
+        width: 1046
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_63
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3126
+        width: 1051
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_64
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 3126
+        width: 1048
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_65
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3122
+        width: 1046
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_66
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 3120
+        width: 1051
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_67
+      rect:
+        serializedVersion: 2
+        x: 7683
+        y: 3120
+        width: 1045
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_68
+      rect:
+        serializedVersion: 2
+        x: 8773
+        y: 3115
+        width: 1049
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_69
+      rect:
+        serializedVersion: 2
+        x: 9865
+        y: 3115
+        width: 1046
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2368
+        width: 1046
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_71
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2368
+        width: 1051
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_72
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2368
+        width: 1046
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_73
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 2362
+        width: 1046
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_74
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 2362
+        width: 1046
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_75
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 2362
+        width: 1046
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_76
+      rect:
+        serializedVersion: 2
+        x: 6583
+        y: 2357
+        width: 1046
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_77
+      rect:
+        serializedVersion: 2
+        x: 7672
+        y: 2357
+        width: 1046
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_78
+      rect:
+        serializedVersion: 2
+        x: 8766
+        y: 2354
+        width: 1046
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_79
+      rect:
+        serializedVersion: 2
+        x: 9855
+        y: 2352
+        width: 1046
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1610
+        width: 1046
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_81
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1604
+        width: 1043
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_82
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1604
+        width: 1045
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_83
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1602
+        width: 1045
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_84
+      rect:
+        serializedVersion: 2
+        x: 4390
+        y: 1599
+        width: 1040
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_85
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 1599
+        width: 1046
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_86
+      rect:
+        serializedVersion: 2
+        x: 6572
+        y: 1594
+        width: 1041
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_87
+      rect:
+        serializedVersion: 2
+        x: 7664
+        y: 1594
+        width: 1043
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_88
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 1594
+        width: 1043
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_89
+      rect:
+        serializedVersion: 2
+        x: 9849
+        y: 1588
+        width: 1041
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 846
+        width: 1044
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_91
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 841
+        width: 1041
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_92
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 841
+        width: 1041
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_93
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 841
+        width: 1041
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_94
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 836
+        width: 1041
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_95
+      rect:
+        serializedVersion: 2
+        x: 5473
+        y: 836
+        width: 1035
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_96
+      rect:
+        serializedVersion: 2
+        x: 6562
+        y: 835
+        width: 1040
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_97
+      rect:
+        serializedVersion: 2
+        x: 7656
+        y: 830
+        width: 1040
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_98
+      rect:
+        serializedVersion: 2
+        x: 8746
+        y: 830
+        width: 1039
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_99
+      rect:
+        serializedVersion: 2
+        x: 9839
+        y: 830
+        width: 1040
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 1035
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_101
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 83
+        width: 1040
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_102
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 78
+        width: 1035
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_103
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 77
+        width: 1035
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_104
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 77
+        width: 1035
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_105
+      rect:
+        serializedVersion: 2
+        x: 5462
+        y: 72
+        width: 1036
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_106
+      rect:
+        serializedVersion: 2
+        x: 6556
+        y: 72
+        width: 1033
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_107
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 72
+        width: 1035
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: octo-sheet-moveleft_108
+      rect:
+        serializedVersion: 2
+        x: 8739
+        y: 67
+        width: 1035
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
