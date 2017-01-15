@@ -4,7 +4,7 @@ using System.Collections;
 public class CameraControl : MonoBehaviour {
 
 	public GameObject player;
-	public float centerDeviation = 5f;
+	public float centerDeviation = 5f; // keep player on the bottom half of the screen at all times
 
 	private Camera camera;
 
