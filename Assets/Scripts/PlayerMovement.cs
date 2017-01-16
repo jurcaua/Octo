@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour {
 	public float clickForce; // how strong each click is
 	public float clickRadius; // how far away you can click from octo
 
+	private BubbleController bubbleController;
+
 	private Rigidbody2D r; 
 	private SpriteRenderer s;
 	private Animator a;
@@ -24,6 +26,7 @@ public class PlayerMovement : MonoBehaviour {
 		r = GetComponent<Rigidbody2D> ();
 		s = GetComponent<SpriteRenderer> ();
 		a = GetComponent<Animator> ();
+		bubbleController = GetComponent<BubbleController> ();
 	}
 	
 	// Update is called once per frame
@@ -86,6 +89,8 @@ public class PlayerMovement : MonoBehaviour {
 						0, clickForce, (clickRadius - clickDistance) // between 0 and max clickforce, scaled by radius and distance
 					)
 					* moveDirection, ForceMode2D.Impulse); // the lerped power, in the right direction, and impluse forcemode
+				
+				bubbleController.Bubbles ();
 			}
 		}
 	}
